@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Civic Signal</title>
+  <link>https://example.com</link>
+  <description>Local politics, clear explainers, and a daily digest you can actually read.</description>
+  
+  <item>
+    <title>Daily Digest: Three Local Votes to Watch This Week</title>
+    <link>https://example.com/posts/daily-digest-local-votes.html</link>
+    <guid>https://example.com/posts/daily-digest-local-votes.html</guid>
+    <pubDate>2025-08-12</pubDate>
+    <description>City council agenda, school board policy revision, and a road millage update.</description>
+  </item>
+
+  <item>
+    <title>Local Lens: How to Track Your City Council Agenda in 60 Seconds</title>
+    <link>https://example.com/posts/local-lens-track-agendas.html</link>
+    <guid>https://example.com/posts/local-lens-track-agendas.html</guid>
+    <pubDate>2025-08-12</pubDate>
+    <description>A quick workflow to find agendas, PDFs, and minutes—without getting lost.</description>
+  </item>
+
+  <item>
+    <title>Explainer: What Is a Consent Agenda (and Why It Matters)?</title>
+    <link>https://example.com/posts/explainer-consent-agenda.html</link>
+    <guid>https://example.com/posts/explainer-consent-agenda.html</guid>
+    <pubDate>2025-08-12</pubDate>
+    <description>The bundle of routine items that can pass in one vote—here’s how to spot issues hidden inside.</description>
+  </item>
+
+  <item>
+    <title>Explainer: Millages, Bond Proposals, and Special Assessments—Plain English</title>
+    <link>https://example.com/posts/explainer-millage-bond-assessment.html</link>
+    <guid>https://example.com/posts/explainer-millage-bond-assessment.html</guid>
+    <pubDate>2025-08-12</pubDate>
+    <description>How local funding tools differ, what they pay for, and what voters usually see on the ballot.</description>
+  </item>
+</channel>
+</rss>

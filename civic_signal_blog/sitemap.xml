@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://example.com/index.html</loc><changefreq>daily</changefreq></url>
+  <url><loc>https://example.com/about.html</loc><changefreq>daily</changefreq></url>
+  <url><loc>https://example.com/category/daily-digest.html</loc><changefreq>daily</changefreq></url>
+  <url><loc>https://example.com/category/local-lens.html</loc><changefreq>daily</changefreq></url>
+  <url><loc>https://example.com/category/explainers.html</loc><changefreq>daily</changefreq></url>
+  <url><loc>https://example.com/posts/daily-digest-local-votes.html</loc><changefreq>daily</changefreq></url>
+  <url><loc>https://example.com/posts/local-lens-track-agendas.html</loc><changefreq>daily</changefreq></url>
+  <url><loc>https://example.com/posts/explainer-consent-agenda.html</loc><changefreq>daily</changefreq></url>
+  <url><loc>https://example.com/posts/explainer-millage-bond-assessment.html</loc><changefreq>daily</changefreq></url>
+</urlset>
